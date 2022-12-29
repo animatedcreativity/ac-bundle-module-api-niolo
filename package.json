@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-api-niolo",
+  "version": "0.0.2",
+  "description": "api/niolo.js: A module bundled by ac-bundle-module.",
+  "main": "api/niolo.js",
+  "scripts": {
+    "start": "node api/niolo.js"
+  },
+  "keywords": [
+    "api/niolo.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-api-niolo/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
